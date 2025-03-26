@@ -8,19 +8,23 @@
     text-decoration: none;
     max-width: 1440px;
  }
- 
+ header{
+    height: 70px;
+    max-width: 1440px;
+ }
 nav{
     display: flex;
     align-items: center;
     justify-content: space-around;
     text-align: center;
+    padding-top: 14px;
 }
 .logo{
    max-width: 161px; 
 }
 .logo span{
     font-family: "Montserrat", sans-serif;
-    font-weight: 800;
+    font-weight: 700;
     font-size: 22px;
     line-height: 100%;
     letter-spacing: 0%;
